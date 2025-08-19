@@ -1,4 +1,4 @@
-# Projeto2: Kubernetes Get Images
+# Kubernetes Get Images
 
 Este projeto contém scripts e arquivos de configuração para auxiliar na gestão de imagens de containers em clusters Kubernetes.
 
