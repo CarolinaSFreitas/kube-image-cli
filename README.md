@@ -20,7 +20,6 @@ Este projeto contém scripts e arquivos de configuração para auxiliar na gest�
 1. Clone este repositório:
    ```sh
    git clone https://github.com/CarolinaSFreitas/kube-image-cli.git
-   cd Projeto2
    ```
 2. (Opcional) Crie e ative um ambiente virtual:
    ```sh
