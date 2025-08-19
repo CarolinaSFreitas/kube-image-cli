@@ -2,6 +2,8 @@
 
 Este projeto contém scripts e arquivos de configuração para auxiliar na gestão de imagens de containers em clusters Kubernetes.
 
+> Este projeto é parte do curso "Python para DevOps" do instrutor Mateus Muller na Udemy.
+
 ## Descrição
 
 - **kubernetes-get-images.py**: Script Python para listar imagens de containers em recursos do Kubernetes.
