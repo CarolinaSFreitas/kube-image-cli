@@ -41,7 +41,7 @@ Este projeto contém scripts e arquivos de configuração para auxiliar na gest�
    ```sh
    python kubernetes-get-images.py
    ```
+   
+---
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Projeto para fins de aprendizado.
